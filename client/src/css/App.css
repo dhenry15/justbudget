@@ -1,0 +1,9 @@
+.btn-sm {
+    background-color: #d4f0ff ;
+    color: black;
+    border-color: darkgrey;
+    
+}
+.btn-sm:active {
+    outline-color: 0 !important;
+}
