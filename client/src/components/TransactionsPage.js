@@ -109,7 +109,7 @@ class TransactionsPage extends React.Component {
                                         <td >{transaction.category}</td>
                                         <td>{transaction.date}</td>
                                     </tr>
-                                })}
+                                }).reverse()}
                             </tbody>
                         </table>
                     </div>
